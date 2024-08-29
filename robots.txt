@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oncelco.github.io/sitemap.html.gz
+Sitemap: https://oncelco.github.io/app/sitemap.html.gz
+Sitemap: https://oncelco.github.io/assets/sitemap.html.gz
+Sitemap: https://oncelco.github.io/css/sitemap.html.gz
+Sitemap: https://oncelco.github.io/includes/sitemap.html.gz
+Sitemap: https://oncelco.github.io/item/sitemap.html.gz
+Sitemap: https://oncelco.github.io/src/sitemap.html.gz
